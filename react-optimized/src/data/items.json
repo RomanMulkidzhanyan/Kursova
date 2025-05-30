@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "title": "Фрукти №1",
+    "description": "Це опис для фрукти номер 1.",
+    "image": "/images/item2.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 2,
+    "title": "Фрукти №2",
+    "description": "Це опис для фрукти номер 2.",
+    "image": "/images/item3.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 3,
+    "title": "Фрукти №3",
+    "description": "Це опис для фрукти номер 3.",
+    "image": "/images/item1.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 4,
+    "title": "Фрукти №4",
+    "description": "Це опис для фрукти номер 4.",
+    "image": "/images/item2.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 5,
+    "title": "Фрукти №5",
+    "description": "Це опис для фрукти номер 5.",
+    "image": "/images/item3.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 6,
+    "title": "Фрукти №6",
+    "description": "Це опис для фрукти номер 6.",
+    "image": "/images/item1.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 7,
+    "title": "Фрукти №7",
+    "description": "Це опис для фрукти номер 7.",
+    "image": "/images/item2.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 8,
+    "title": "Фрукти №8",
+    "description": "Це опис для фрукти номер 8.",
+    "image": "/images/item3.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 9,
+    "title": "Фрукти №9",
+    "description": "Це опис для фрукти номер 9.",
+    "image": "/images/item1.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 10,
+    "title": "Фрукти №10",
+    "description": "Це опис для фрукти номер 10.",
+    "image": "/images/item2.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 11,
+    "title": "Фрукти №11",
+    "description": "Це опис для фрукти номер 11.",
+    "image": "/images/item3.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 12,
+    "title": "Фрукти №12",
+    "description": "Це опис для фрукти номер 12.",
+    "image": "/images/item1.jpg",
+    "category": "Фрукти"
+  },
+  {
+    "id": 13,
+    "title": "Овочі №1",
+    "description": "Це опис для овочі номер 1.",
+    "image": "/images/item2.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 14,
+    "title": "Овочі №2",
+    "description": "Це опис для овочі номер 2.",
+    "image": "/images/item3.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 15,
+    "title": "Овочі №3",
+    "description": "Це опис для овочі номер 3.",
+    "image": "/images/item1.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 16,
+    "title": "Овочі №4",
+    "description": "Це опис для овочі номер 4.",
+    "image": "/images/item2.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 17,
+    "title": "Овочі №5",
+    "description": "Це опис для овочі номер 5.",
+    "image": "/images/item3.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 18,
+    "title": "Овочі №6",
+    "description": "Це опис для овочі номер 6.",
+    "image": "/images/item1.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 19,
+    "title": "Овочі №7",
+    "description": "Це опис для овочі номер 7.",
+    "image": "/images/item2.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 20,
+    "title": "Овочі №8",
+    "description": "Це опис для овочі номер 8.",
+    "image": "/images/item3.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 21,
+    "title": "Овочі №9",
+    "description": "Це опис для овочі номер 9.",
+    "image": "/images/item1.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 22,
+    "title": "Овочі №10",
+    "description": "Це опис для овочі номер 10.",
+    "image": "/images/item2.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 23,
+    "title": "Овочі №11",
+    "description": "Це опис для овочі номер 11.",
+    "image": "/images/item3.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 24,
+    "title": "Овочі №12",
+    "description": "Це опис для овочі номер 12.",
+    "image": "/images/item1.jpg",
+    "category": "Овочі"
+  },
+  {
+    "id": 25,
+    "title": "Солодощі №1",
+    "description": "Це опис для солодощі номер 1.",
+    "image": "/images/item2.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 26,
+    "title": "Солодощі №2",
+    "description": "Це опис для солодощі номер 2.",
+    "image": "/images/item3.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 27,
+    "title": "Солодощі №3",
+    "description": "Це опис для солодощі номер 3.",
+    "image": "/images/item1.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 28,
+    "title": "Солодощі №4",
+    "description": "Це опис для солодощі номер 4.",
+    "image": "/images/item2.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 29,
+    "title": "Солодощі №5",
+    "description": "Це опис для солодощі номер 5.",
+    "image": "/images/item3.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 30,
+    "title": "Солодощі №6",
+    "description": "Це опис для солодощі номер 6.",
+    "image": "/images/item1.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 31,
+    "title": "Солодощі №7",
+    "description": "Це опис для солодощі номер 7.",
+    "image": "/images/item2.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 32,
+    "title": "Солодощі №8",
+    "description": "Це опис для солодощі номер 8.",
+    "image": "/images/item3.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 33,
+    "title": "Солодощі №9",
+    "description": "Це опис для солодощі номер 9.",
+    "image": "/images/item1.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 34,
+    "title": "Солодощі №10",
+    "description": "Це опис для солодощі номер 10.",
+    "image": "/images/item2.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 35,
+    "title": "Солодощі №11",
+    "description": "Це опис для солодощі номер 11.",
+    "image": "/images/item3.jpg",
+    "category": "Солодощі"
+  },
+  {
+    "id": 36,
+    "title": "Солодощі №12",
+    "description": "Це опис для солодощі номер 12.",
+    "image": "/images/item1.jpg",
+    "category": "Солодощі"
+  }
+]
